@@ -1,4 +1,4 @@
-package ru.alser.Calculator;
+package Calculator;
 
 import java.util.Scanner;
 /*
